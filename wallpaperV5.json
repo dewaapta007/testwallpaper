@@ -84,8 +84,8 @@
     {
       "id":6,
       "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "title":"Anime",
+      "image":"https://i.pinimg.com/originals/d9/1a/b2/d91ab28220815502dc89081546fa589d.png"
     }
   ]
 }
